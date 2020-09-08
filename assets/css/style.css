@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Rokkitt&display=swap');
 
 Body {
     color: #484848;
@@ -23,7 +24,39 @@ nav a {
     color: #fff;
 }
 
+a {
+    font-family: Orbitron;
+}
+
 i {
     color: cornflowerblue;
     text-decoration: underline;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Orbitron;
+}
+
+p {
+    font-family: Rokkitt;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#hero {
+    background-image: url(assets/img/img3.jpg);
+    display: inline-flex;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#hero1 {
+    background-image: url(assets/img/img3.jpg);
+    display: inline-flex;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
