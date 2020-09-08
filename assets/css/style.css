@@ -1,0 +1,29 @@
+
+Body {
+    color: #484848;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline-flex;
+}
+
+nav a {
+    font-size: 24px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+i {
+    color: cornflowerblue;
+    text-decoration: underline;
+}
